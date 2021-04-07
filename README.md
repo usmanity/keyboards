@@ -1,8 +1,12 @@
-# pages-template
-a github pages template for static sites, overtime I will add other things I would like templatized for easier startup of new pages.
+# Keyboards
+A list of keyboard makers, keyboards, and other stuff related to keyboards.
 
 
-## Comes with
+Feel free to send PRs to add your keyboards/brands/tools
 
-- CNAME file that needs to be changed to your domain
-- Tailwind CSS included as a link (no building required)
+
+# Pages
+
+- [Keyboards](/keyboards)
+- [Makers](/makers)
+- [Tools](/tools)
